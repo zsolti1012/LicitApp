@@ -1,0 +1,26 @@
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojResolveAssemblyReference.cache
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb
+C:\Users\user\Desktop\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+C:\Users\user\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+C:\Users\user\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb
+C:\Users\user\Desktop\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+C:\Users\user\Desktop\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
+C:\Users\user\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojResolveAssemblyReference.cache
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojAssemblyReference.cache
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csproj.CoreCompileInputs.cache
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+E:\Suli\SZOP\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.csproj.CoreCompileInputs.cache
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.exe
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\obj\Debug\Szerver.pdb
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe.config
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\bin\Debug\Szerver.exe
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Szerver\bin\Debug\Szerver.pdb

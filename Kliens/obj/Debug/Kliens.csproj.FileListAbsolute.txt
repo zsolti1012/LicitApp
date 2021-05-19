@@ -1,0 +1,24 @@
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+c:\users\danisovszky erik\documents\visual studio 2015\Projects\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
+C:\Users\user\Desktop\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+C:\Users\user\Desktop\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+C:\Users\user\Desktop\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+C:\Users\user\Desktop\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+C:\Users\user\Desktop\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csproj.CoreCompileInputs.cache
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+E:\Suli\SZOP\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe.config
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\bin\Debug\Kliens.exe
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\bin\Debug\Kliens.pdb
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\obj\Debug\Kliens.csproj.CoreCompileInputs.cache
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\obj\Debug\Kliens.exe
+C:\Users\O.Zsolt\Desktop\KliensKomm_10_16\Kliens\obj\Debug\Kliens.pdb
